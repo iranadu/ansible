@@ -1,6 +1,6 @@
 ---
-- hosts: localhost
-  remote_user: root
+- hosts: 
+  remote_user: 
   vars:
     mysql_database: semaphore
     mysql_hostname: localhost
